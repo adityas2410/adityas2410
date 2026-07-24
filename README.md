@@ -18,7 +18,7 @@ Event-driven AI automation platform with live analytics dashboards for SMEs acro
   - MSc Advanced Computing
   - BSc Hons Computer Science
 
-## Skills 💻
+## Skills
 
 - **Programming Languages/Frameworks:** Python, C/C++, Java, JavaScript, TypeScript, React, Next.js
 - **Machine Learning/Data Science Frameworks:** Pandas, NumPy, TensorFlow, Keras, PyTorch, JAX, Flax, Scikit-Learn, XGBoost, Ray Ecosystem
