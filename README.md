@@ -2,7 +2,19 @@
 
 AI Engineer with expertise in **building production-grade agentic AI applications with governance** including **harness engineering** and **spec-driven development** to automate software engineering workflows. Practical experience developing **machine learning pipelines**, **retrieval augmented generation (RAG)** with **knowledge graphs** and **vector databases**, **multi-agent AI systems** and **multimodal LLM fine-tuning**. Proficient in **deploying AI/ML solutions** as **scalable and secure API services** using **container orchestration** and **cloud infrastructure**.
 
-## Technical Interests  
+## AI Engineering Specializations
+ 
+* Multi-agent systems with hierarchical architectures, using an orchestrator agent to delegate tasks to worker subagents with dedicated tool access.
+* Harness engineering by building infrastructure around LLMs for context management, agent orchestration, tool integration, evaluation and observability.
+* Hybrid retrieval systems across multimodal data using GraphRAG with AI agents and graph databases for persistent memory, vector search and reasoning harness. 
+* Enterprise workflow automation by integrating third-party business applications for event-driven and scheduled workflows with AI agents for decision-making, content generation and business process orchestration. 
+* Fine-tuning multimodal LLMs with PEFT and quantization by adapting foundation models for domain-specific tasks using supervised instruction datasets.
+* AI developer tools and spec-driven development, including building domain-specific Skills, MCP servers and subagent configurations for automating software engineering and DevOps workflows. 
+* Governance of AI agents for production deployment by implementing identity verification, policy enforcement, guardrails, human oversight, auditability, lifecycle management and evaluation metrics. 
+
+## AI Engineering Philosophy  
+
+
 
 ## Featured Projects
 
