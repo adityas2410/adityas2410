@@ -10,7 +10,7 @@ AI Engineer with expertise in **building production-grade agentic AI application
 
 ### [SkillSmith](https://github.com/adityas2410/skillsmithX)
 
-Transform screen recordings into Skills for AI agents.
+Transform screen recordings into Skills for AI agents. Enables multimodal prompting by automatically extracting software workflows from screen recordings and generating installable skill packages for agentic AI tools to learn how to navigate your internal systems. 
 
 ### [OmniVoice](https://github.com/adityas2410/omnivoiceX)
 
