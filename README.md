@@ -2,14 +2,26 @@
 
 AI Engineer with expertise in **building production-grade agentic AI applications with governance** including **harness engineering** and **spec-driven development** to automate software engineering workflows. Practical experience developing **machine learning pipelines**, **retrieval augmented generation (RAG)** with **knowledge graphs** and **vector databases**, **multi-agent AI systems** and **multimodal LLM fine-tuning**. Proficient in **deploying AI/ML solutions** as **scalable and secure API services** using **container orchestration** and **cloud infrastructure**.
 
+## Technical Interests  
+
+## Featured Projects
+
+<!-- ### [OpenDetective](https://github.com/adityas2410/opendetectiveX) -->
+
+### [SkillSmith](https://github.com/adityas2410/skillsmithX)
+
+Transform screen recordings into Skills for AI agents.
+
+### [OmniVoice](https://github.com/adityas2410/omnivoiceX)
+
+Universal voice AI agent that transforms speech prompts into keyboard operations for web and desktop applications. Click into a text field on any user interface, then prompt the AI agent using your voice to automatically type its generated response using your keyboard. 
+
 ## SaaS Applications
-### **PodMapAI** 
-**Website:** <https://www.podmapai.com/>
+### **[PodMapAI](https://www.podmapai.com/)** 
 
 AI SaaS video analytics platform using multimodal LLMs to transform podcasts from YouTube or local video/audio files into summaries and interactive data visualizations including 3D/2D knowledge graphs. 
 
-### **Technomancer AI Solutions (TAS)**
-**Website:** <https://technomancer-ai.solutions/>
+### **[Technomancer AI Solutions (TAS)](https://technomancer-ai.solutions/)**
 
 Event-driven AI automation platform with live analytics dashboards for SMEs across sales, marketing, finance and operations. Consultancy working directly with B2B clients to deliver custom workflow automations as containerized services deployed either on managed or self-hosted infrastructure. 
 
@@ -18,7 +30,7 @@ Event-driven AI automation platform with live analytics dashboards for SMEs acro
   - MSc Advanced Computing
   - BSc Hons Computer Science
 
-## Skills
+## Tech Stack
 
 - **Programming Languages/Frameworks:** Python, C/C++, Java, JavaScript, TypeScript, React, Next.js
 - **Machine Learning/Data Science Frameworks:** Pandas, NumPy, TensorFlow, Keras, PyTorch, JAX, Flax, Scikit-Learn, XGBoost, Ray Ecosystem
@@ -41,14 +53,14 @@ Event-driven AI automation platform with live analytics dashboards for SMEs acro
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?style=flat&logo=kaggle)](https://www.kaggle.com/t0266882)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-satheesh-6a2685291)-->
 
-## AI/ML Project Categories 
+## AI/ML Projects 
 
 ### Generative AI
 
 **Agentic Architectures & RAG Pipelines**
 - **[Conversational Agentic RAG for Documents & Databases](https://github.com/adityas2410/Document-Chatbot/)**
 - **[ReAct AI Agent Orchestrator for Spawning Parallel Subagents with MCP](https://github.com/adityas2410/ReAct_Agent)**
-- **[Agentic Knowledge Graph Construction with GraphRAG for Supply Chain Analysis](https://github.com/adityas2410/agentic-knowledge-graph-construction/)**
+- **[Agentic Knowledge Graph Construction with GraphRAG for Supply Chain Analysis](https://github.com/adityas2410/agentic-knowledge-graph-construction)**
 - **[Stock Analysis Report Generator using Hierarchical Multi-Agent AI](https://github.com/adityas2410/stock-analysis_multi-agents-AI)**
 - **[Structured Report with Deep Research and Podcast Generation using Agentic AI](https://github.com/adityas2410/structured-report-generation)** 
 - **[Adaptive Multimodal Multi-Vector RAG for Research Papers](https://github.com/adityas2410/adaptive-rag)** 
