@@ -10,7 +10,7 @@ AI Engineer with expertise in **building production-grade agentic AI application
 * Enterprise workflow automation by integrating third-party business applications for event-driven and scheduled workflows with AI agents for decision-making, content generation and business process orchestration. 
 * Fine-tuning multimodal LLMs with PEFT and quantization by adapting foundation models for domain-specific tasks using supervised instruction datasets.
 * AI developer tools and spec-driven development, including building domain-specific Skills, MCP servers and subagent configurations for automating software engineering and DevOps workflows. 
-* Governance of AI agents for production deployment by implementing identity verification, policy enforcement, guardrails, human oversight, auditability, lifecycle management and evaluation metrics. 
+* Governance of AI agents in production environments by implementing identity verification, policy enforcement, guardrails, human oversight, auditability, lifecycle management and evaluation metrics. 
 
 ## AI Engineering Philosophy  
 
