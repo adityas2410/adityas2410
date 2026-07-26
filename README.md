@@ -14,7 +14,10 @@ AI Engineer with expertise in **building production-grade agentic AI application
 
 ## AI Engineering Philosophy  
 
-
+* Prioritize **systems thinking** and **high agency** as frontier models gain more intelligence and autonomy.
+  * Systems Thinking: Design and architecture of systems by understanding the relationships and interactions betweem their components. 
+  * High Agency: Ownership and accountability of solving complex problems 
+* Measure productivity and value with AI tools by minimizing the time to deliver applications to users and iterating from feedback rather than maximizing LLM token consumption.
 
 ## Featured Projects
 
