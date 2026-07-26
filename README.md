@@ -18,6 +18,7 @@ AI Engineer with expertise in **building production-grade agentic AI application
   * Systems Thinking: Design and architecture of systems by understanding the relationships and interactions betweem their components. 
   * High Agency: Ownership and accountability for solving complex problems while leveraging AI tools to expand the problem scope and increase execution speed. 
 * Measure productivity and value with AI tools by minimizing the time to deliver applications to users and iterating from feedback rather than maximizing LLM token consumption.
+* Exercise engineering judgement based on task complexity, output verifiability and risk assessment before delegating work to AI agents. 
 
 ## Featured Projects
 
