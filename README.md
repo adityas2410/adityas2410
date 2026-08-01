@@ -23,15 +23,17 @@ AI Engineer with expertise in **building production-grade agentic AI application
 
 ## Featured Projects
 
-<!-- ### [OpenDetective](https://github.com/adityas2410/opendetectiveX) -->
+### [OpenDetective](https://github.com/adityas2410/opendetectiveX) 
 
-### [Skillsmith](https://github.com/adityas2410/skillsmith)
-
-**Transform screen recordings of user navigation into Skills for AI agents:** Enables multimodal prompting by automatically extracting software workflows from screen recordings and generating skill packages for agentic AI tools to learn how to navigate your internal systems. 
+**Investigative AI system that reasons across multimodal evidence to solve criminal, corporate and OSINT investigations:** Converse with the AI agent about your case, then the system will orchestrate agent swarms to process multimodal data (text, image, audio, video) from evidence files and create or update knowledge graphs for investigative reasoning. 
 
 ### [OmniVoice](https://github.com/adityas2410/omnivoiceX)
 
 **Universal voice AI agent that transforms speech prompts into keyboard operations for web and desktop applications:** Click into a text field on any user interface, then prompt the AI agent using your voice to automatically route its generated response to keyboard operations or voice output through context awareness. 
+
+### [Skillsmith](https://github.com/adityas2410/skillsmith)
+
+**Transform screen recordings of user navigation into Skills for AI agents:** Enables multimodal prompting by automatically extracting software workflows from screen recordings and generating skill packages for agentic AI tools to learn how to navigate your internal systems. 
 
 ## SaaS Applications
 ### **[PodMapAI](https://www.podmapai.com/)** 
