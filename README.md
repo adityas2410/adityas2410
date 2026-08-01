@@ -25,7 +25,7 @@ AI Engineer with expertise in **building production-grade agentic AI application
 
 ### [OpenDetective](https://github.com/adityas2410/opendetectiveX) 
 
-**Investigative AI system that reasons across multimodal evidence to solve criminal, corporate and OSINT investigations:** Converse with the AI agent about your case, then the system will orchestrate agent swarms to process multimodal data (text, image, audio, video) from evidence files and create or update knowledge graphs for investigative reasoning. 
+**Investigative AI system that reasons across evidence to solve criminal, corporate and OSINT investigations:** Converse with the AI agent about your case, then the system orchestrates subagents to process multimodal evidence (text, image, audio, video) from case files and create or update knowledge graphs for investigative reasoning using GraphRAG. 
 
 ### [OmniVoice](https://github.com/adityas2410/omnivoiceX)
 
