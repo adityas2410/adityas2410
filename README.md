@@ -60,7 +60,7 @@ Event-driven AI automation platform with live analytics dashboards for SMEs acro
 - **DevOps/MLOps/LLMOps & Cloud:** Docker, Kubernetes, GitLab, GitHub Actions, Weights & Biases, MLflow, LangSmith, AgentOps, Vercel, Cloudflare, AWS (Amazon Web Services), Microsoft Azure, GCP (Google Cloud Platform)
 - **Other:** Git, Bash, REST, GraphQL, JSON, XML, YAML, TOML, MCP (Model Context Protocol), A2A (Agent-to-Agent Protocol)   
 
-### Platforms 
+## Platforms 
 - [LinkedIn](https://www.linkedin.com/in/aditya-s-6a2685291/)
 - [Hugging Face](https://huggingface.co/adityas2410)
 - [Kaggle](https://www.kaggle.com/t0266882)
