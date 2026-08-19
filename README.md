@@ -23,11 +23,11 @@ AI Engineer with expertise in **building production-grade agentic AI application
 
 ## Featured Projects
 
-### [OpenDetective](https://github.com/adityas2410/opendetectiveX) 
+### [OpenDetective](https://github.com/adityas2410/opendetective) 
 
 **Investigative AI system that reasons across evidence to solve criminal, corporate and OSINT investigations:** Converse with the AI agent about your case, then the system orchestrates subagents to process multimodal evidence (text, image, audio, video) from case files and create or update knowledge graphs for investigative reasoning using GraphRAG. 
 
-### [OmniVoice](https://github.com/adityas2410/omnivoiceX)
+### [OmniVoice](https://github.com/adityas2410/omnivoice)
 
 **Universal voice AI agent that converts speech-to-text (STT) prompts into keyboard actions for web and desktop applications:** Click into any text field, then speak to the AI agent to generate responses into keyboard actions and text-to-speech (TTS) feedback with UI context awareness. 
 
