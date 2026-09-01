@@ -77,8 +77,8 @@ Event-driven AI automation platform with live analytics dashboards for SMEs acro
 ### Generative AI
 
 **Agentic Architectures & RAG Pipelines**
-- **[Conversational Agentic RAG for Documents & Databases](https://github.com/adityas2410/Document-Chatbot/)**
-- **[ReAct AI Agent Orchestrator for Spawning Parallel Subagents with MCP](https://github.com/adityas2410/ReAct_Agent)**
+- **[ReAct AI Agent Orchestrator for Spawning Subagents with Self-Hosted MCP and Self-Evolving Skills](https://github.com/adityas2410/ReAct_Agent)**
+- - **[Conversational Agentic RAG for Documents & Databases](https://github.com/adityas2410/Document-Chatbot/)**
 - **[Agentic Knowledge Graph Construction with GraphRAG for Supply Chain Analysis](https://github.com/adityas2410/agentic-knowledge-graph-construction)**
 - **[Stock Analysis Report Generator using Hierarchical Multi-Agent AI](https://github.com/adityas2410/stock-analysis_multi-agents-AI)**
 - **[Structured Report with Deep Research and Podcast Generation using Agentic AI](https://github.com/adityas2410/structured-report-generation)** 
@@ -90,7 +90,7 @@ Event-driven AI automation platform with live analytics dashboards for SMEs acro
 - **[Small Language Model Reasoning using Multi-Agent Graph Distillation](https://github.com/adityas2410/multi-agent_graph_distillation/)** 
 
 **LLM Fine-Tuning**
-- **[Instruction Tuning LLM using PEFT QLoRA and Few-Shot Learning for SQL AI Agent](https://github.com/adityas2410/sql-instruct-qlora-llm)**
+- **[Fine-Tuning Tuning LLM using PEFT QLoRA and Self-Supervised Database Embeddings for Insurance Fraud](https://github.com/adityas2410/sql-instruct-qlora-llm)**
 - **[Fine-Tuning VLM with LoRA for E-commerce Product Descriptions](https://github.com/adityas2410/vlm-fine-tuned-lora)**
 - **[Fine-Tuning Mixture-of-Experts (MoE) using MixLoRA for STEM](https://github.com/adityas2410/moe-mixlora)**
 - **[Fine-Tuning Mamba State-Space Model (SSM) for Named Entity Recognition](https://github.com/adityas2410/mamba-fine-tuned-ner)**
