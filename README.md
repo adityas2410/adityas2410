@@ -38,11 +38,16 @@ AI Engineer with expertise in **building production-grade agentic AI application
 ## SaaS Applications
 ### **[PodMapAI](https://www.podmapai.com/)** 
 
-AI SaaS video analytics platform using multimodal LLMs to transform podcasts from YouTube or local video/audio files into summaries and interactive data visualizations including 3D/2D knowledge graphs. 
+AI SaaS video analytics platform using multimodal LLMs to transform podcasts into summaries and interactive data visualizations including 3D/2D knowledge graphs.
 
 ### **[Technomancer AI Solutions (TAS)](https://technomancer-ai.solutions/)**
 
-Event-driven AI automation platform with live analytics dashboards for SMEs across sales, marketing, finance and operations. Consultancy working directly with B2B clients to deliver custom workflow automations as containerized services deployed either on managed or self-hosted infrastructure. 
+AI automation consultancy delivering custom event-driven workflow automations with live analytics dashboards for B2B clients across sales, marketing, finance and operations. 
+
+## Competitions 
+
+### All Things Agentic Hackathon (Google) - [GeoAgent](https://github.com/adityas2410/geoagent)
+Full-stack application that uses an autonomous multi-agent AI system for planning and coordinating real-world operations using organizational databases and live geospatial data.
 
 ## Education 
 
