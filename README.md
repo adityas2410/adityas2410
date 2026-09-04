@@ -83,7 +83,7 @@ Full-stack application that uses an autonomous multi-agent AI system for plannin
 
 **Agentic Architectures & RAG Pipelines**
 - **[ReAct AI Agent Orchestrator for Spawning Subagents with Self-Hosted MCP and Self-Evolving Skills](https://github.com/adityas2410/ReAct_Agent)**
-- - **[Conversational Agentic RAG for Documents & Databases](https://github.com/adityas2410/Document-Chatbot/)**
+- **[Conversational Agentic RAG for Documents & Databases](https://github.com/adityas2410/Document-Chatbot/)**
 - **[Agentic Knowledge Graph Construction with GraphRAG for Supply Chain Analysis](https://github.com/adityas2410/agentic-knowledge-graph-construction)**
 - **[Stock Analysis Report Generator using Hierarchical Multi-Agent AI](https://github.com/adityas2410/stock-analysis_multi-agents-AI)**
 - **[Structured Report with Deep Research and Podcast Generation using Agentic AI](https://github.com/adityas2410/structured-report-generation)** 
