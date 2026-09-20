@@ -29,7 +29,7 @@ AI Engineer with expertise in **building production-grade agentic AI application
 
 ### [OmniVoice](https://github.com/adityas2410/omnivoice)
 
-**Universal voice AI agent that converts speech-to-text (STT) prompts into keyboard actions for web and desktop applications:** Click into any text field, then speak to the AI agent to generate responses into keyboard actions and text-to-speech (TTS) feedback with UI context awareness. 
+**Universal voice AI agent that converts speech-to-text (STT) prompts into keyboard and mouse actions for web and desktop applications with text-to-speech feedback (TTS):** Supports multiple voice interaction modes including *text dictation* (speech to keyboard actions), *text generation* (speech to AI generated keyboard actions) and *computer agent* (speech to keyboard and mouse actions).
 
 ### [Skillsmith](https://github.com/adityas2410/skillsmith)
 
