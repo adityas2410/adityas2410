@@ -46,7 +46,7 @@ AI automation consultancy delivering custom event-driven workflow automations wi
 
 ## Competitions 
 
-### All Things Agentic Hackathon (Google) - [GeoAgent](https://github.com/adityas2410/geoagent)
+### All Things Agentic Hackathon (Google) | Award Winner - [GeoAgent](https://github.com/adityas2410/geoagent)
 Full-stack application that uses an autonomous multi-agent AI system for planning and coordinating real-world operations using organizational databases and live geospatial data.
 
 ## Education 
